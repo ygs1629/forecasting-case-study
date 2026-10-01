@@ -1,12 +1,12 @@
 # Synthetic Forecasting Case Study: Negative R2 Under a Regime Shift
 
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-R2%20%7C%20LinearRegression-orange)](https://scikit-learn.org/stable/)
-[![statsmodels](https://img.shields.io/badge/statsmodels-ADF%20%7C%20KPSS%20%7C%20Zivot--Andrews%20%7C%20MarkovRegression-blue)](https://www.statsmodels.org/)
-[![Chronos](https://img.shields.io/badge/Amazon%20Chronos-T5--mini-green)](https://www.amazon.science/publications/chronos-learning-the-language-of-time-series)
+[![scikit-learn](<https://img.shields.io/badge/scikit--learn-R2%20%7C%20LinearRegression-orange>)](https://scikit-learn.org/stable/)
+[![statsmodels](<https://img.shields.io/badge/statsmodels-ADF%20%7C%20KPSS%20%7C%20Zivot--Andrews%20%7C%20MarkovRegression-blue>)](https://www.statsmodels.org/)
+[![Chronos](<https://img.shields.io/badge/Amazon%20Chronos-T5--mini-green>)](https://www.amazon.science/publications/chronos-learning-the-language-of-time-series)
 
 This repository contains the synthetic notebook that supports the article:
 
-> Article link: TODO
+> Article link 👉 [medium/Towards AI](https://medium.com/towards-artificial-intelligence/when-not-modeling-is-the-pragmatic-decision-c5ae362253b4)
 
 The notebook does not contain real business data. It recreates a failure pattern with synthetic monthly data in order to illustrate a diagnostic workflow for a forecasting problem where several models return negative R2 after a severe regime shift.
 
